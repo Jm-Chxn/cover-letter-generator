@@ -1,0 +1,97 @@
+%-------------------------
+% Cover Letter in Latex
+% Author : Jim Chen
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Jim Chen} \\ \vspace{1pt}
+    \small \href{mailto:jca586@sfu.ca}{\underline{jca586@sfu.ca}} $|$ 
+    \href{https://linkedin.com/in/-jimchen-}{\underline{linkedin.com/in/-jimchen-}} $|$
+    \href{https://github.com/Jm-Chxn}{\underline{https://github.com/Jm-Chxn}}
+\end{center}
+
+\section{}
+{\textit{\today}}
+\newline
+\newline
+%%RECIPIENT_TITLE%%
+\newline
+%%POSITION_TITLE%%
+\newline
+%%COMPANY_NAME_FULL%%
+\newline
+%%COMPANY_ADDRESS_LINE_1%%
+\newline
+%%COMPANY_ADDRESS_LINE_2%%
+\newline
+\newline
+\textbf{RE: %%POSITION_TITLE%%}
+\newline
+\newline
+Dear %%RECIPIENT_TITLE%%,
+\newline
+\newline
+I am writing to express my interest in %%POSITION_TITLE%% position at %%COMPANY_NAME_FULL%% for the %%SESSION%%. %%JOB_POSTING_JOKE%%. As a software engineer passionate about %%COMPANY_MISSION%%, I am excited about the opporunity to contribute to your team's success. My technical background and problem-solving skills align well with your innovate work in %%COMPANY_INNOVATION%%.
+\newline
+\newline
+What particularly draws me to %%COMPANY_NAME_FULL%% is your commitment to %%COMPANY_VALUE_PROP%%. Throughut my career in technology, I have strived to contribute meaningful solutions to similiar challenges, and I beleive my experience could be valueable to your team. My relevant experiences includes a recent engagement, where I led a cross-functional Scrum team to build Foodie Find, a React-based web application that helps users discover hidden restaurants. I architected the user interface using React.js and Tailwind CSS, integrated real-time data storage with Firebase Realtime Database, and leveraged the Google Maps API to deliver intuitive location services. I led the end-to-end testing strategy—writing over twenty Vitest and React Testing Library suites to validate UI rendering, loading states, and error handling—and managed our CI/CD pipeline on Netlify to guarantee seamless deployments. This project honed my ability to balance rapid feature delivery with rigorous quality assurance and accessibility best practices.
+\newline
+\newline
+Prior to these projects, I served as Student Club Software Engineer for SFU’s Gaming \& Esports Club, where I designed and launched a React/TypeScript site that grew membership to over 3,800 students. As an NFT Analyst at KingDom NFT, I engineered blockchain-driven bots and automated workflows on the Arbitrum-based Magic ecosystem—generating over \$\2250 000 USD in trading volume—and coordinated cross-project partnerships to expand our decentralized offerings. These experiences have refined my abilities in stakeholder collaboration, secure data handling, and delivering user-centric solutions at scale.
+\newline
+\newline
+I truly resonate with the goals and initiatives that %%COMPANY_NAME_FULL%% is fostering. With my solid background in web development and user interface design, I believe I would be a valuable asset to your team. I would greatly appreciate the opportunity to discuss how my skills and experience align with your needs. Thank you for considering my application. I enthusiastically look forward to hearing from you soon.
+\newline
+\newline
+Sincerely,
+\newline
+\newline
+Jim Chen
+
+\end{document}

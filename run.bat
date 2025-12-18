@@ -1,0 +1,3 @@
+@echo off
+set GEMINI_API_KEY=AIzaSyC8MG4cfYKhkaNxq0saYbixdCZhScsjDKk
+npm start 

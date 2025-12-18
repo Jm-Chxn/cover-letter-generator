@@ -1,0 +1,35 @@
+Company: WorkSafeBC
+Position: Software Developer
+Location: 6951 Westminster Hwy V7C 1C6
+Term: Spring 2025
+Contact: Crystal Fung
+
+About Us:
+At WorkSafeBC, we offer a hybrid work model that combines working remotely, and in our offices based on the operational needs of the position. Please be aware that the two-week onboarding period is full-time onsite in the Richmond office.
+
+
+The Innovation Strategy and Services department of WorkSafeBC is looking for two highly motivated co-op students, Software Developer to join our team to help us strive towards our vision.
+
+
+The Innovation Strategy and Services department in the Innovation, Technology and Analytics Division of WorkSafeBC is a small team of business innovation management and technology professionals. Innovation Strategy and Services is responsible for coordinating synergies across the organization to bring opportunities for innovation forward, collaborating with organizational leaders and stakeholders to increase the innovation adoption capacity of the broader organization to support corporate and divisional strategies.
+
+
+The Innovation Strategy and Services team in WorkSafeBC does rapid prototyping and development of novel products, services and processes. We provide a highly collaborative environment where co-op students can learn, contribute and develop their skills while working on innovative projects that help make a difference to the workers and employers of B.C.
+
+Responsibilities:
+Prototype and Experimentation: Assist in developing, testing, and iterating on prototypes for new technical solutions using emerging technologies.
+Collaboration and Team Engagement: Work closely with product designers, senior innovation advisors, product owners, and senior developers to bring ideas to life.
+Innovation Culture and Knowledge Sharing: Contribute to internal demo days, hackathons, and knowledge-sharing sessions to foster innovation within the organization.
+Technical Research and Innovation Scouting: Stay up to date on the latest tools, frameworks, and coding practices relevant to innovation and emerging technology.
+Independent Work and Task Management: Manage personal tasks efficiently, balancing multiple development priorities while meeting deadlines. Take ownership of assigned projects and work independently to explore solutions, troubleshoot issues, and document progress. Proactively seek guidance or feedback when necessary.
+
+Required Skills:
+Currently a student in a master's Program in computer science or computer science related program
+Experience with Microsoft Azure, or similar cloud computing platform
+Understanding of SQL server Knowledge of Web APIs (C#, Core .net)
+Familiarity with AI in software development, Python, Pytorch and Tensorflow is an asset
+
+Nice to Have:
+
+
+
